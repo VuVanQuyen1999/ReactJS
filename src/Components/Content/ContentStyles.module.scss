@@ -13,6 +13,22 @@ body {
     color: #333;
 }
 
+.btn-add {
+    margin: 20px 0;
+    font-size: 1.6rem;
+    border: none;
+    background-color: #405CF5;
+    cursor: pointer;
+    color: #fff;
+    padding: 8px 10px;
+    font-weight: 500;
+    border-radius: 5px;
+
+    &:hover {
+        background-color: #3452fa;
+    }
+}
+
 .table {
     border-collapse: collapse;
     width: 100%;
